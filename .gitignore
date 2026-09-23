@@ -1,0 +1,6 @@
+__pycache__/
+cache/
+ntfy-wx.db
+config.ini
+/ntfy
+.coverage
